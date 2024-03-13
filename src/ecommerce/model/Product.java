@@ -74,7 +74,6 @@ public abstract class Product {
 		case 2: 
 			type = "Laptop";
 			break;
-		
 		}
 		
 		System.out.println("*******************************************");
